@@ -1,0 +1,26 @@
+{
+    "data": {
+        "creators": [
+            {
+                "address": "2dSsh6L5jBEcsv8kGiMPMjahhr2CRGjDcoM6mvUKX1JV",
+                "share": 0,
+                "verified": true
+            },
+            {
+                "address": "CUBEfzwPEDbcPp3UVd4Aw8MK72hY41DZ6JJkmiduYqci",
+                "share": 100,
+                "verified": false
+            }
+        ],
+        "name": "SolCube #0000",
+        "seller_fee_basis_points": 1000,
+        "symbol": "CUBE",
+        "uri": "https://arweave.net/zHFIATSBrZRV28DRhlbDIxA9qXBTtq_tbje38f5G9nA"
+    },
+    "edition_nonce": 255,
+    "is_mutable": true,
+    "key": "MetadataV1",
+    "mint": "5ntGCAci67xJHEM5KRL3EJBNXENmVgr5abreSQVUWe3Q",
+    "primary_sale_happened": true,
+    "update_authority": "CUBEUGTe69ihwM4XGFiQvTGGV9wQavqDEseYJ9KriJNG"
+}
