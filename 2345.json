@@ -3,12 +3,12 @@
         "creators": [
             {
                 "address": "2dSsh6L5jBEcsv8kGiMPMjahhr2CRGjDcoM6mvUKX1JV",
-                "share": 0,
+                "share": 50,
                 "verified": true
             },
             {
                 "address": "CUBEfzwPEDbcPp3UVd4Aw8MK72hY41DZ6JJkmiduYqci",
-                "share": 100,
+                "share": 50,
                 "verified": false
             }
         ],
