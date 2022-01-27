@@ -1,0 +1,46 @@
+{
+    "name": "SolCube #0001",
+    "symbol": "CUBE",
+    "description": "SolCubes are generally hand-made craft embedded with such imperfection which makes them a unique masterpiece to your collection.",
+    "seller_fee_basis_points": 500,
+    "image": "https://www.arweave.net/YEkWy4NZutgV-eNjzfCL8y7HyUwDH299p78tyhzVZyE?ext=png",
+    "update_authority": "CUBEfzwPEDbcPp3UVd4Aw8MK72hY41DZ6JJkmiduYqci",
+    "external_url": "https://solcube.app",
+    "collection": {
+        "name": "SolCube X Animals",
+        "family": "SolCube"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/YEkWy4NZutgV-eNjzfCL8y7HyUwDH299p78tyhzVZyE?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "CUBEfzwPEDbcPp3UVd4Aw8MK72hY41DZ6JJkmiduYqci",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Pendenza"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Blank"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Light Cigarette"
+        },
+        {
+            "trait_type": "Hibrida",
+            "value": "Hibrida 18"
+        }
+    ]
+}
